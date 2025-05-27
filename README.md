@@ -22,7 +22,7 @@ A simple task management application built with **Laravel 6** and **PHP 7**, fea
 
 ```bash
 git clone https://github.com/yourusername/taskmanager-app.git
-cd taskmanager-laravel
+cd taskmanager-app
 ```
 
 ### 2. Copy environment file
